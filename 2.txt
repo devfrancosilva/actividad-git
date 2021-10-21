@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 2
 2 by emiliano
-=======
 222222222
->>>>>>> b7004d0c2cb02d7b5594af7e9c7cea9ae9ad27df
+
